@@ -1,0 +1,22 @@
+{
+  "name": "textserver",
+  "version": "1.0.0",
+  "description": "Send text to another ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomdolkim/textServer.git"
+  },
+  "author": "BC Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomdolkim/textServer/issues"
+  },
+  "homepage": "https://github.com/gomdolkim/textServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
